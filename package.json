@@ -19,7 +19,7 @@
   "homepage": "https://github.com/PuenteVinicius/InspireApi#readme",
   "dependencies": {
     "consign": "^0.1.6",
-    "express": "^4.16.1",
+    "express": "^4.17.3",
     "express-load": "^1.1.16",
     "method-override": "^2.3.10",
     "mongodb": "^2.2.31",
